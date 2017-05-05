@@ -2,4 +2,4 @@
 
 Welcome CLC Linux!
 
-This should conflict.
+Now we're really dangerous :D
